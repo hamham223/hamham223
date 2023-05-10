@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamster! :hamster:
 - 👀 I’m interested in Systems.
 - 🌱 I’m currently learning real time scheduling
-- 💻 I'm taking intern in intel
+- 💻 I'm just finished my intern in intel!
 - 📫 How to reach me niyinchen@sjtu.edu.cn
 
 <!---
